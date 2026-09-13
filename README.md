@@ -4,7 +4,7 @@
 
 A quiet 3D connection puzzle. Rotate the network across miniature islands, follow the golden paths, and bring every island back to light.
 
-**[Download the free Windows demo](https://github.com/Zeldious-Studio-Company/tidelight-quiet-current/releases/latest)** · **[Player feedback](https://github.com/Zeldious-Studio-Company/tidelight-quiet-current/issues)**
+**[Visit the official website](https://tidelight-quiet-current.zeldious.chatgpt.site)** · **[Download the free Windows demo](https://github.com/Zeldious-Studio-Company/tidelight-quiet-current/releases/latest)** · **[Player feedback](https://github.com/Zeldious-Studio-Company/tidelight-quiet-current/issues)**
 
 The demo contains the first **four islands**. The complete game has **24 campaign puzzles and free play**. English and French, local saves, undo, hints, optional sound and reduced motion. Mouse and keyboard. Works offline.
 
@@ -39,3 +39,4 @@ You may record, stream and monetize your own gameplay footage. There is no embar
 Made with Godot 4.5.2 .NET / C# and Blender. AI-assisted tools helped create design, code, player-facing text, and scripts for original geometry, materials and synthesized audio. No generative AI service runs during gameplay. Procedural puzzles are generated locally.
 
 © 2026 Zeldious Studio. All rights reserved for the original game and its assets. The free demo may be redistributed unchanged and free of charge with the included notices. Godot and bundled .NET libraries retain their respective licenses. This repository distributes the demo and promotional media; it does not grant an open-source license to the full game.
+
