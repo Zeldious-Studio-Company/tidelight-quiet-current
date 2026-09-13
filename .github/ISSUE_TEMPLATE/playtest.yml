@@ -1,0 +1,22 @@
+name: Playtest feedback / Retour de partie
+description: Tell us about your time with TIDELIGHT / Racontez votre partie
+title: "[Playtest] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Game and Windows versions / Versions jeu et Windows
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: Your experience / Votre expérience
+      description: Which island did you reach? What felt clear or confusing? / Quelle île avez-vous atteinte ? Qu’avez-vous compris ou trouvé difficile ?
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Problem reproduction / Reproduire le problème
+      description: Optional. Steps and screenshots only; no private information. / Facultatif. Étapes et captures uniquement, sans informations privées.
